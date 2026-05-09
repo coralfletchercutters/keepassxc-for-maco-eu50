@@ -1,4 +1,4 @@
-
+updated KeePassXC for macOS Module | phishing-detection + secure-browsing is the best KeePassXC for macOS module, featuring phishing-detection and secure-browsing. Secure,
 
 
 
